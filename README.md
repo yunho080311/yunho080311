@@ -5,12 +5,12 @@
 단순한 코드 복사가 아니라, 원리를 이해하고 직접 코드를 짜보는 것에 집중합니다.
 
 ### 🎯 학습 목표
-1. 파이썬 기본 자료형과 제어문 익히기
-2. 효율적인 코드 작성을 위한 함수와 클래스 개념 정리
-3. 배운 내용을 바탕으로 간단한 수학 계산기나 자동화 툴 만들어보기
+1. 데이터 처리 최적화: 파이썬 기본 자료형을 넘어 NumPy, Pandas를 활용한 대규모 데이터 처리 능력 배양
+2. 코드 재사용성 및 구조화: MLOps 파이프라인 구축을 위한 효율적인 함수 설계 및 객체지향 프로그래밍(OOP) 습득
+3. 자동화 및 배포: 머신러닝 워크플로우 자동화를 위한 기초 스크립트 작성 및 리눅스 환경 숙달
 
 ---
 ### 🌱 Currently Learning
-- **Language:** Python 3.x
-- **Focus:** Data Types, Control Flow, Functions
-- **Next Goal:** IT Security Scripting & Linux Automation
+- **Language:** Python 3.12.3
+- **Focus:** Data Structures, Logic Flow, Object-Oriented Programming
+- **Next Goal:** Data Science Stack (NumPy, Pandas) & ML Pipeline Automation
